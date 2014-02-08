@@ -6,7 +6,7 @@
 # catalog-version 1.008
 Name:		texlive-tex-gyre-math
 Version:	1.008
-Release:	1
+Release:	2
 Summary:	Maths fonts to match tex-gyre text fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/tex-gyre-math
