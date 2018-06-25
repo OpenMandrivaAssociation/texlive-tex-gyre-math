@@ -1,5 +1,5 @@
 Name:		texlive-tex-gyre-math
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Maths fonts to match tex-gyre text fonts
 Group:		Publishing
