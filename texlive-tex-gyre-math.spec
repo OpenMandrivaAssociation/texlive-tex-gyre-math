@@ -1,6 +1,6 @@
 Name:		texlive-tex-gyre-math
 Version:	20180303
-Release:	2
+Release:	3
 Summary:	Maths fonts to match tex-gyre text fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/tex-gyre-math
