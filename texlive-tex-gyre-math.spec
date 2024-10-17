@@ -3,7 +3,7 @@ Version:	41264
 Release:	2
 Summary:	Maths fonts to match tex-gyre text fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/tex-gyre-math
+URL:		https://www.ctan.org/tex-archive/fonts/tex-gyre-math
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tex-gyre-math.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tex-gyre-math.doc.r%{version}.tar.xz
